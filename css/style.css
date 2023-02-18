@@ -71,3 +71,19 @@
   color: #d33f90;
   background-color: #ccccff;
 }
+
+#feature_container {
+  width: 100%;
+  height: 300px;
+  display: flex;
+}
+
+#feature_catogery {
+  width: 40%;
+  border: 1px solid red;
+}
+
+#feature_product {
+  width: 50%;
+  border: 2px solid green;
+}
