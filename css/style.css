@@ -52,3 +52,22 @@
   padding: 10px 15px;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+
+.cateogery_container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  border: 1px solid #ccccff;
+}
+
+.category_box {
+  width: 150px;
+  height: 50px;
+  border: 1px solid #ccccff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #d33f90;
+  background-color: #ccccff;
+}
