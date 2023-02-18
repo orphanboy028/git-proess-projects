@@ -41,4 +41,14 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero_titel {
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 10px 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
