@@ -33,3 +33,12 @@
   padding: 7px;
   cursor: pointer;
 }
+
+#hero_section {
+  width: 100%;
+  height: 500px;
+  background-image: url("../image/truck-driver-occupation.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
